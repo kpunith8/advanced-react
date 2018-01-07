@@ -1,0 +1,8 @@
+{
+  "name": "state-api",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/kpunith8/state-api",
+  "author": "Punith K",
+  "license": "MIT"
+}
